@@ -37,7 +37,21 @@
 ### Как строится и для чего нужна совместная работа в системах контроля версий
 
 ### Инструкция по созданию pull request
-
+___
 ## Книги и полезные ссылки по изучению git.
 
+* [Книга «Pro Git](https://git-scm.com/book/ru/v2);
+   
+* [Подробное введение в работу с Git](https://tproger.ru/translations/beginner-git-cheatsheet/);
+   
+* [Книга «Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/);
+   
+* [Лаконичный гайд по работе с Git](http://rogerdudler.github.io/git-guide/).
+
+*Полезные ссылки:*
+
+* [Тренажер LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU)
+
+- [Интерактивное руководство от GitHub](https://docs.github.com/en/get-started/quickstart/set-up-git)
+___
 ## Альтернативные системы контроля версий.
