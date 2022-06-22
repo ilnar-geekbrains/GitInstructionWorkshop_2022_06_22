@@ -55,3 +55,9 @@
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+
+
+Seebo
+BetterCloud
+Cryptlex
+Rational ClearQuest
