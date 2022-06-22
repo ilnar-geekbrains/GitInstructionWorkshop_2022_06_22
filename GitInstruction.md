@@ -33,6 +33,15 @@
 
 ### Базовая работа с ветками в git.
 
+Основные команды для работы с ветками:
+git branch - Просмотреть все доступные ветки
+git branch branch_Name - создать ветку с именем "branch_Name"
+git checkout -b branch_Name - Создать ветку с именем "branch_Name" и перейти на нее
+git merge branch_Name - слияние информации в выбранную ветку из ветки с именем "branch_Name"
+git checkout branch_Name - перейти на ветку с именем "branch_Name"
+git branch -d branch_Name - удаление ветки
+git branch -M main - указать ветку основной
+
 ## Работа с удаленными репозиториями.
 
 ### Что такое удаленный репозиторий и для чего он нужен
