@@ -52,8 +52,8 @@
 
 ### Инструкция по созданию pull request
 
-(https://git-scm.com/)
-(https://github.com/)
+1. [Git-SCM](https://git-scm.com/)
+2. [GitHub](https://github.com/)
 
 ## Книги и полезные ссылки по изучению git.
 
