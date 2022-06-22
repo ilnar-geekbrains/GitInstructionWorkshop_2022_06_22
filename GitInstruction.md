@@ -43,6 +43,7 @@
 1. https://github.com/cyberspacedk/Git-commands
 2. https://habr.com/ru/post/472600/
 3. https://learngitbranching.js.org/?locale=ru_RU
+
 Книги:
 1. https://losst.ru/wp-content/uploads/2016/08/progit-ru.1027.pdf
 2. https://git-scm.com/book/ru/v2
